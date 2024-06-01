@@ -6,6 +6,9 @@ Gesture Recognition Using CNN:
 This repository contains the code and resources for a gesture recognition project using Convolutional Neural Networks (CNN). The project involves preprocessing image data, building a CNN model, 
 and training the model to classify different hand gestures. The dataset used for this project is the LeapGestRecog dataset.
 
+Linkedin Post link:
+https://www.linkedin.com/posts/bandla-avinash-6b518024a_machinelearning-deeplearning-prodigyinfotech-activity-7202707975310893057-p4rI?utm_source=share&utm_medium=member_desktop
+
 Table of Contents:
 -Project Overview
 -Dependencies
